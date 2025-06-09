@@ -2,7 +2,7 @@
 public class armstrong {
 
     public static void main(String[] args) {
-        int x = 153;
+        int x = 9474;
             System.out.println(Armstrong(x));
 
 
