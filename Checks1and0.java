@@ -21,8 +21,5 @@ public class Checks1and0 {
         }
     }
 
-    public static boolean palindrome(int x){
-        
-
-    }
+ 
 }
